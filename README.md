@@ -1,7 +1,9 @@
-@PointendClick
-I’m interested in People
-- 🌱 I’m currently learning Qiskit and CCNP
+- This is @PointendClick
+- -
+- I’m interested in People
+- 
 - 💞️ I’m looking to collaborate on a 16^16 hexhex base system
+- 
 - 📫 How to reach me fedntamosh@protonmail.com
 
 <!---
