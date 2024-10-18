@@ -2,7 +2,7 @@
 - 
 - I’m interested in People
 - 
-- I’m looking to collaborate on a 16^16 hexhex base system
+- Research on a 16^16 hexhex base system for AI connectivity
 - 
 - 📫   fedntamosh at protonmail dot com (no_spaces)
 
