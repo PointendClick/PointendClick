@@ -4,7 +4,7 @@
 - 
 - Research on a 16^16 hexhex base system for AI connectivity
 - 
-- 📫   fedntamosh at protonmail dot com (no_spaces)
+- 📫   fednta mosh at protonmail dot com (no_spaces)
 
 <!---
 PointendClick/PointendClick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
